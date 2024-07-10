@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\3_CentimetrosMetros\obj\Debug\net8.0\3_CentimetrosMetros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\3_CentimetrosMetros\obj\Debug\net8.0\3_CentimetrosMetros.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\3_CentimetrosMetros\obj\Debug\net8.0\3_CentimetrosMetros.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\3_CentimetrosMetros\obj\Debug\net8.0\3_CentimetrosMetros.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\3_CentimetrosMetros\obj\Debug\net8.0\3_CentimetrosMetros.sourcelink.json
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\3_CentimetrosMetros\bin\Debug\net8.0\3_CentimetrosMetros.exe
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\3_CentimetrosMetros\bin\Debug\net8.0\3_CentimetrosMetros.deps.json
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\3_CentimetrosMetros\bin\Debug\net8.0\3_CentimetrosMetros.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\3_CentimetrosMetros\bin\Debug\net8.0\3_CentimetrosMetros.dll
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\3_CentimetrosMetros\bin\Debug\net8.0\3_CentimetrosMetros.pdb
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\3_CentimetrosMetros\obj\Debug\net8.0\3_CentimetrosMetros.dll
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\3_CentimetrosMetros\obj\Debug\net8.0\refint\3_CentimetrosMetros.dll
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\3_CentimetrosMetros\obj\Debug\net8.0\3_CentimetrosMetros.pdb
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\3_CentimetrosMetros\obj\Debug\net8.0\3_CentimetrosMetros.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\3_CentimetrosMetros\obj\Debug\net8.0\ref\3_CentimetrosMetros.dll

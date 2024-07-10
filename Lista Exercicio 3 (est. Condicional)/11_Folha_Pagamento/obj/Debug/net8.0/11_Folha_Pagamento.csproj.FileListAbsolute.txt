@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\11_Folha_Pagamento\obj\Debug\net8.0\11_Folha_Pagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\11_Folha_Pagamento\obj\Debug\net8.0\11_Folha_Pagamento.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\11_Folha_Pagamento\obj\Debug\net8.0\11_Folha_Pagamento.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\11_Folha_Pagamento\obj\Debug\net8.0\11_Folha_Pagamento.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\11_Folha_Pagamento\obj\Debug\net8.0\11_Folha_Pagamento.sourcelink.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\11_Folha_Pagamento\bin\Debug\net8.0\11_Folha_Pagamento.exe
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\11_Folha_Pagamento\bin\Debug\net8.0\11_Folha_Pagamento.deps.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\11_Folha_Pagamento\bin\Debug\net8.0\11_Folha_Pagamento.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\11_Folha_Pagamento\bin\Debug\net8.0\11_Folha_Pagamento.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\11_Folha_Pagamento\bin\Debug\net8.0\11_Folha_Pagamento.pdb
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\11_Folha_Pagamento\obj\Debug\net8.0\11_Folha_Pagamento.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\11_Folha_Pagamento\obj\Debug\net8.0\refint\11_Folha_Pagamento.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\11_Folha_Pagamento\obj\Debug\net8.0\11_Folha_Pagamento.pdb
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\11_Folha_Pagamento\obj\Debug\net8.0\11_Folha_Pagamento.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\11_Folha_Pagamento\obj\Debug\net8.0\ref\11_Folha_Pagamento.dll

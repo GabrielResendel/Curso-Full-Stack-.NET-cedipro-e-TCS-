@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\8_SomaDeNum\bin\Debug\net8.0\8_SomaDeNum.exe
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\8_SomaDeNum\bin\Debug\net8.0\8_SomaDeNum.deps.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\8_SomaDeNum\bin\Debug\net8.0\8_SomaDeNum.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\8_SomaDeNum\bin\Debug\net8.0\8_SomaDeNum.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\8_SomaDeNum\bin\Debug\net8.0\8_SomaDeNum.pdb
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\8_SomaDeNum\obj\Debug\net8.0\8_SomaDeNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\8_SomaDeNum\obj\Debug\net8.0\8_SomaDeNum.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\8_SomaDeNum\obj\Debug\net8.0\8_SomaDeNum.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\8_SomaDeNum\obj\Debug\net8.0\8_SomaDeNum.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\8_SomaDeNum\obj\Debug\net8.0\8_SomaDeNum.sourcelink.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\8_SomaDeNum\obj\Debug\net8.0\8_SomaDeNum.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\8_SomaDeNum\obj\Debug\net8.0\refint\8_SomaDeNum.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\8_SomaDeNum\obj\Debug\net8.0\8_SomaDeNum.pdb
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\8_SomaDeNum\obj\Debug\net8.0\8_SomaDeNum.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\8_SomaDeNum\obj\Debug\net8.0\ref\8_SomaDeNum.dll

@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\10_SalarioMes\bin\Debug\net8.0\10_SalarioMes.exe
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\10_SalarioMes\bin\Debug\net8.0\10_SalarioMes.deps.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\10_SalarioMes\bin\Debug\net8.0\10_SalarioMes.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\10_SalarioMes\bin\Debug\net8.0\10_SalarioMes.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\10_SalarioMes\bin\Debug\net8.0\10_SalarioMes.pdb
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\10_SalarioMes\obj\Debug\net8.0\10_SalarioMes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\10_SalarioMes\obj\Debug\net8.0\10_SalarioMes.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\10_SalarioMes\obj\Debug\net8.0\10_SalarioMes.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\10_SalarioMes\obj\Debug\net8.0\10_SalarioMes.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\10_SalarioMes\obj\Debug\net8.0\10_SalarioMes.sourcelink.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\10_SalarioMes\obj\Debug\net8.0\10_SalarioMes.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\10_SalarioMes\obj\Debug\net8.0\refint\10_SalarioMes.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\10_SalarioMes\obj\Debug\net8.0\10_SalarioMes.pdb
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\10_SalarioMes\obj\Debug\net8.0\10_SalarioMes.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\10_SalarioMes\obj\Debug\net8.0\ref\10_SalarioMes.dll

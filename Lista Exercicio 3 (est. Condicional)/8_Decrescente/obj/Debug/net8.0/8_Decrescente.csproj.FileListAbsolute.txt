@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\8_Decrescente\bin\Debug\net8.0\8_Decrescente.exe
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\8_Decrescente\bin\Debug\net8.0\8_Decrescente.deps.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\8_Decrescente\bin\Debug\net8.0\8_Decrescente.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\8_Decrescente\bin\Debug\net8.0\8_Decrescente.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\8_Decrescente\bin\Debug\net8.0\8_Decrescente.pdb
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\8_Decrescente\obj\Debug\net8.0\8_Decrescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\8_Decrescente\obj\Debug\net8.0\8_Decrescente.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\8_Decrescente\obj\Debug\net8.0\8_Decrescente.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\8_Decrescente\obj\Debug\net8.0\8_Decrescente.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\8_Decrescente\obj\Debug\net8.0\8_Decrescente.sourcelink.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\8_Decrescente\obj\Debug\net8.0\8_Decrescente.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\8_Decrescente\obj\Debug\net8.0\refint\8_Decrescente.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\8_Decrescente\obj\Debug\net8.0\8_Decrescente.pdb
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\8_Decrescente\obj\Debug\net8.0\8_Decrescente.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\8_Decrescente\obj\Debug\net8.0\ref\8_Decrescente.dll

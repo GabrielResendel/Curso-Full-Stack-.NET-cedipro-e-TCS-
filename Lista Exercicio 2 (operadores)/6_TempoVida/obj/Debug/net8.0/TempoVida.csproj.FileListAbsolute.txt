@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\6_TempoVida\bin\Debug\net8.0\TempoVida.exe
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\6_TempoVida\bin\Debug\net8.0\TempoVida.deps.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\6_TempoVida\bin\Debug\net8.0\TempoVida.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\6_TempoVida\bin\Debug\net8.0\TempoVida.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\6_TempoVida\bin\Debug\net8.0\TempoVida.pdb
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\6_TempoVida\obj\Debug\net8.0\TempoVida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\6_TempoVida\obj\Debug\net8.0\TempoVida.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\6_TempoVida\obj\Debug\net8.0\TempoVida.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\6_TempoVida\obj\Debug\net8.0\TempoVida.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\6_TempoVida\obj\Debug\net8.0\TempoVida.sourcelink.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\6_TempoVida\obj\Debug\net8.0\TempoVida.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\6_TempoVida\obj\Debug\net8.0\refint\TempoVida.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\6_TempoVida\obj\Debug\net8.0\TempoVida.pdb
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\6_TempoVida\obj\Debug\net8.0\TempoVida.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\6_TempoVida\obj\Debug\net8.0\ref\TempoVida.dll

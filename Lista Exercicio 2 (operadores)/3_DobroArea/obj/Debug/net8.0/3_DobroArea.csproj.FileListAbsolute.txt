@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\3_DobroArea\obj\Debug\net8.0\3_DobroArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\3_DobroArea\obj\Debug\net8.0\3_DobroArea.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\3_DobroArea\obj\Debug\net8.0\3_DobroArea.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\3_DobroArea\obj\Debug\net8.0\3_DobroArea.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\3_DobroArea\obj\Debug\net8.0\3_DobroArea.sourcelink.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\3_DobroArea\bin\Debug\net8.0\3_DobroArea.exe
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\3_DobroArea\bin\Debug\net8.0\3_DobroArea.deps.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\3_DobroArea\bin\Debug\net8.0\3_DobroArea.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\3_DobroArea\bin\Debug\net8.0\3_DobroArea.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\3_DobroArea\bin\Debug\net8.0\3_DobroArea.pdb
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\3_DobroArea\obj\Debug\net8.0\3_DobroArea.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\3_DobroArea\obj\Debug\net8.0\refint\3_DobroArea.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\3_DobroArea\obj\Debug\net8.0\3_DobroArea.pdb
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\3_DobroArea\obj\Debug\net8.0\3_DobroArea.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\3_DobroArea\obj\Debug\net8.0\ref\3_DobroArea.dll

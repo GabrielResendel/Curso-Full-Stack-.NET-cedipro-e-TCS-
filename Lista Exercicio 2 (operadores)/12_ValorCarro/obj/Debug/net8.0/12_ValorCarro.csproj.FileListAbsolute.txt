@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\12_ValorCarro\bin\Debug\net8.0\12_ValorCarro.exe
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\12_ValorCarro\bin\Debug\net8.0\12_ValorCarro.deps.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\12_ValorCarro\bin\Debug\net8.0\12_ValorCarro.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\12_ValorCarro\bin\Debug\net8.0\12_ValorCarro.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\12_ValorCarro\bin\Debug\net8.0\12_ValorCarro.pdb
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\12_ValorCarro\obj\Debug\net8.0\12_ValorCarro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\12_ValorCarro\obj\Debug\net8.0\12_ValorCarro.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\12_ValorCarro\obj\Debug\net8.0\12_ValorCarro.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\12_ValorCarro\obj\Debug\net8.0\12_ValorCarro.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\12_ValorCarro\obj\Debug\net8.0\12_ValorCarro.sourcelink.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\12_ValorCarro\obj\Debug\net8.0\12_ValorCarro.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\12_ValorCarro\obj\Debug\net8.0\refint\12_ValorCarro.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\12_ValorCarro\obj\Debug\net8.0\12_ValorCarro.pdb
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\12_ValorCarro\obj\Debug\net8.0\12_ValorCarro.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\12_ValorCarro\obj\Debug\net8.0\ref\12_ValorCarro.dll

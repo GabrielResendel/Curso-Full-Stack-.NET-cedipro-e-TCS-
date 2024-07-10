@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\2_NumDobro\bin\Debug\net8.0\2_NumDobro.exe
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\2_NumDobro\bin\Debug\net8.0\2_NumDobro.deps.json
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\2_NumDobro\bin\Debug\net8.0\2_NumDobro.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\2_NumDobro\bin\Debug\net8.0\2_NumDobro.dll
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\2_NumDobro\bin\Debug\net8.0\2_NumDobro.pdb
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\2_NumDobro\obj\Debug\net8.0\2_NumDobro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\2_NumDobro\obj\Debug\net8.0\2_NumDobro.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\2_NumDobro\obj\Debug\net8.0\2_NumDobro.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\2_NumDobro\obj\Debug\net8.0\2_NumDobro.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\2_NumDobro\obj\Debug\net8.0\2_NumDobro.dll
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\2_NumDobro\obj\Debug\net8.0\refint\2_NumDobro.dll
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\2_NumDobro\obj\Debug\net8.0\2_NumDobro.pdb
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\2_NumDobro\obj\Debug\net8.0\2_NumDobro.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\2_NumDobro\obj\Debug\net8.0\ref\2_NumDobro.dll
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\2_NumDobro\obj\Debug\net8.0\2_NumDobro.sourcelink.json

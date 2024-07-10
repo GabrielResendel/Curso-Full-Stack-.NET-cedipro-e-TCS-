@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\7_salarioNew\obj\Debug\net8.0\7_salarioNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\7_salarioNew\obj\Debug\net8.0\7_salarioNew.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\7_salarioNew\obj\Debug\net8.0\7_salarioNew.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\7_salarioNew\obj\Debug\net8.0\7_salarioNew.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\7_salarioNew\obj\Debug\net8.0\7_salarioNew.sourcelink.json
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\7_salarioNew\bin\Debug\net8.0\7_salarioNew.exe
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\7_salarioNew\bin\Debug\net8.0\7_salarioNew.deps.json
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\7_salarioNew\bin\Debug\net8.0\7_salarioNew.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\7_salarioNew\bin\Debug\net8.0\7_salarioNew.dll
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\7_salarioNew\bin\Debug\net8.0\7_salarioNew.pdb
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\7_salarioNew\obj\Debug\net8.0\7_salarioNew.dll
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\7_salarioNew\obj\Debug\net8.0\refint\7_salarioNew.dll
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\7_salarioNew\obj\Debug\net8.0\7_salarioNew.pdb
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\7_salarioNew\obj\Debug\net8.0\7_salarioNew.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\7_salarioNew\obj\Debug\net8.0\ref\7_salarioNew.dll

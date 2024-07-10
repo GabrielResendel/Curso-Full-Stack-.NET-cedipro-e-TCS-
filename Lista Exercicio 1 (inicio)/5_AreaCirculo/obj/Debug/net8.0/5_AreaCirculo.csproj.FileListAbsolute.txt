@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\5_AreaCirculo\obj\Debug\net8.0\5_AreaCirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\5_AreaCirculo\obj\Debug\net8.0\5_AreaCirculo.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\5_AreaCirculo\obj\Debug\net8.0\5_AreaCirculo.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\5_AreaCirculo\obj\Debug\net8.0\5_AreaCirculo.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\5_AreaCirculo\obj\Debug\net8.0\5_AreaCirculo.sourcelink.json
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\5_AreaCirculo\bin\Debug\net8.0\5_AreaCirculo.exe
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\5_AreaCirculo\bin\Debug\net8.0\5_AreaCirculo.deps.json
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\5_AreaCirculo\bin\Debug\net8.0\5_AreaCirculo.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\5_AreaCirculo\bin\Debug\net8.0\5_AreaCirculo.dll
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\5_AreaCirculo\bin\Debug\net8.0\5_AreaCirculo.pdb
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\5_AreaCirculo\obj\Debug\net8.0\5_AreaCirculo.dll
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\5_AreaCirculo\obj\Debug\net8.0\refint\5_AreaCirculo.dll
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\5_AreaCirculo\obj\Debug\net8.0\5_AreaCirculo.pdb
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\5_AreaCirculo\obj\Debug\net8.0\5_AreaCirculo.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\5_AreaCirculo\obj\Debug\net8.0\ref\5_AreaCirculo.dll

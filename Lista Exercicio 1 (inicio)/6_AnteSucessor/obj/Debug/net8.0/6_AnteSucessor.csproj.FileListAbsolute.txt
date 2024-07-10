@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\6_AnteSucessor\obj\Debug\net8.0\6_AnteSucessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\6_AnteSucessor\obj\Debug\net8.0\6_AnteSucessor.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\6_AnteSucessor\obj\Debug\net8.0\6_AnteSucessor.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\6_AnteSucessor\obj\Debug\net8.0\6_AnteSucessor.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\6_AnteSucessor\obj\Debug\net8.0\6_AnteSucessor.sourcelink.json
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\6_AnteSucessor\bin\Debug\net8.0\6_AnteSucessor.exe
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\6_AnteSucessor\bin\Debug\net8.0\6_AnteSucessor.deps.json
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\6_AnteSucessor\bin\Debug\net8.0\6_AnteSucessor.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\6_AnteSucessor\bin\Debug\net8.0\6_AnteSucessor.dll
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\6_AnteSucessor\bin\Debug\net8.0\6_AnteSucessor.pdb
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\6_AnteSucessor\obj\Debug\net8.0\6_AnteSucessor.dll
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\6_AnteSucessor\obj\Debug\net8.0\refint\6_AnteSucessor.dll
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\6_AnteSucessor\obj\Debug\net8.0\6_AnteSucessor.pdb
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\6_AnteSucessor\obj\Debug\net8.0\6_AnteSucessor.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\6_AnteSucessor\obj\Debug\net8.0\ref\6_AnteSucessor.dll

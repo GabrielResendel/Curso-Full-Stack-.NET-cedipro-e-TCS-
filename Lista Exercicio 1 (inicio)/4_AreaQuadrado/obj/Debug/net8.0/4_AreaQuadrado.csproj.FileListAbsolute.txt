@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\4_AreaQuadrado\obj\Debug\net8.0\4_AreaQuadrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\4_AreaQuadrado\obj\Debug\net8.0\4_AreaQuadrado.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\4_AreaQuadrado\obj\Debug\net8.0\4_AreaQuadrado.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\4_AreaQuadrado\obj\Debug\net8.0\4_AreaQuadrado.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\4_AreaQuadrado\obj\Debug\net8.0\4_AreaQuadrado.sourcelink.json
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\4_AreaQuadrado\bin\Debug\net8.0\4_AreaQuadrado.exe
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\4_AreaQuadrado\bin\Debug\net8.0\4_AreaQuadrado.deps.json
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\4_AreaQuadrado\bin\Debug\net8.0\4_AreaQuadrado.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\4_AreaQuadrado\bin\Debug\net8.0\4_AreaQuadrado.dll
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\4_AreaQuadrado\bin\Debug\net8.0\4_AreaQuadrado.pdb
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\4_AreaQuadrado\obj\Debug\net8.0\4_AreaQuadrado.dll
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\4_AreaQuadrado\obj\Debug\net8.0\refint\4_AreaQuadrado.dll
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\4_AreaQuadrado\obj\Debug\net8.0\4_AreaQuadrado.pdb
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\4_AreaQuadrado\obj\Debug\net8.0\4_AreaQuadrado.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\4_AreaQuadrado\obj\Debug\net8.0\ref\4_AreaQuadrado.dll

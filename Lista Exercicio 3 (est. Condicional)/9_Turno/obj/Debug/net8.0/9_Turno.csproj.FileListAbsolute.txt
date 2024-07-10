@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\9_Turno\bin\Debug\net8.0\9_Turno.exe
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\9_Turno\bin\Debug\net8.0\9_Turno.deps.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\9_Turno\bin\Debug\net8.0\9_Turno.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\9_Turno\bin\Debug\net8.0\9_Turno.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\9_Turno\bin\Debug\net8.0\9_Turno.pdb
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\9_Turno\obj\Debug\net8.0\9_Turno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\9_Turno\obj\Debug\net8.0\9_Turno.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\9_Turno\obj\Debug\net8.0\9_Turno.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\9_Turno\obj\Debug\net8.0\9_Turno.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\9_Turno\obj\Debug\net8.0\9_Turno.sourcelink.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\9_Turno\obj\Debug\net8.0\9_Turno.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\9_Turno\obj\Debug\net8.0\refint\9_Turno.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\9_Turno\obj\Debug\net8.0\9_Turno.pdb
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\9_Turno\obj\Debug\net8.0\9_Turno.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\9_Turno\obj\Debug\net8.0\ref\9_Turno.dll

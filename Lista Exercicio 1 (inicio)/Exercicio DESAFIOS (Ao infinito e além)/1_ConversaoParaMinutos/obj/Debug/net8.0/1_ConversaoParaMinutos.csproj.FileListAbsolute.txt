@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\1_ConversaoParaMinutos\bin\Debug\net8.0\1_ConversaoParaMinutos.exe
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\1_ConversaoParaMinutos\bin\Debug\net8.0\1_ConversaoParaMinutos.deps.json
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\1_ConversaoParaMinutos\bin\Debug\net8.0\1_ConversaoParaMinutos.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\1_ConversaoParaMinutos\bin\Debug\net8.0\1_ConversaoParaMinutos.dll
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\1_ConversaoParaMinutos\bin\Debug\net8.0\1_ConversaoParaMinutos.pdb
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\1_ConversaoParaMinutos\obj\Debug\net8.0\1_ConversaoParaMinutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\1_ConversaoParaMinutos\obj\Debug\net8.0\1_ConversaoParaMinutos.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\1_ConversaoParaMinutos\obj\Debug\net8.0\1_ConversaoParaMinutos.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\1_ConversaoParaMinutos\obj\Debug\net8.0\1_ConversaoParaMinutos.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\1_ConversaoParaMinutos\obj\Debug\net8.0\1_ConversaoParaMinutos.sourcelink.json
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\1_ConversaoParaMinutos\obj\Debug\net8.0\1_ConversaoParaMinutos.dll
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\1_ConversaoParaMinutos\obj\Debug\net8.0\refint\1_ConversaoParaMinutos.dll
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\1_ConversaoParaMinutos\obj\Debug\net8.0\1_ConversaoParaMinutos.pdb
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\1_ConversaoParaMinutos\obj\Debug\net8.0\1_ConversaoParaMinutos.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\1_ConversaoParaMinutos\obj\Debug\net8.0\ref\1_ConversaoParaMinutos.dll

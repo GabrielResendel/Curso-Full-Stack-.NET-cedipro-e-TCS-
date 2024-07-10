@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\7_PrecoComprar\bin\Debug\net8.0\7_PrecoComprar.exe
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\7_PrecoComprar\bin\Debug\net8.0\7_PrecoComprar.deps.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\7_PrecoComprar\bin\Debug\net8.0\7_PrecoComprar.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\7_PrecoComprar\bin\Debug\net8.0\7_PrecoComprar.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\7_PrecoComprar\bin\Debug\net8.0\7_PrecoComprar.pdb
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\7_PrecoComprar\obj\Debug\net8.0\7_PrecoComprar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\7_PrecoComprar\obj\Debug\net8.0\7_PrecoComprar.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\7_PrecoComprar\obj\Debug\net8.0\7_PrecoComprar.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\7_PrecoComprar\obj\Debug\net8.0\7_PrecoComprar.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\7_PrecoComprar\obj\Debug\net8.0\7_PrecoComprar.sourcelink.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\7_PrecoComprar\obj\Debug\net8.0\7_PrecoComprar.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\7_PrecoComprar\obj\Debug\net8.0\refint\7_PrecoComprar.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\7_PrecoComprar\obj\Debug\net8.0\7_PrecoComprar.pdb
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\7_PrecoComprar\obj\Debug\net8.0\7_PrecoComprar.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\7_PrecoComprar\obj\Debug\net8.0\ref\7_PrecoComprar.dll

@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\3_CustoCarro\bin\Debug\net8.0\3_CustoCarro.exe
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\3_CustoCarro\bin\Debug\net8.0\3_CustoCarro.deps.json
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\3_CustoCarro\bin\Debug\net8.0\3_CustoCarro.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\3_CustoCarro\bin\Debug\net8.0\3_CustoCarro.dll
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\3_CustoCarro\bin\Debug\net8.0\3_CustoCarro.pdb
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\3_CustoCarro\obj\Debug\net8.0\3_CustoCarro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\3_CustoCarro\obj\Debug\net8.0\3_CustoCarro.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\3_CustoCarro\obj\Debug\net8.0\3_CustoCarro.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\3_CustoCarro\obj\Debug\net8.0\3_CustoCarro.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\3_CustoCarro\obj\Debug\net8.0\3_CustoCarro.sourcelink.json
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\3_CustoCarro\obj\Debug\net8.0\3_CustoCarro.dll
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\3_CustoCarro\obj\Debug\net8.0\refint\3_CustoCarro.dll
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\3_CustoCarro\obj\Debug\net8.0\3_CustoCarro.pdb
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\3_CustoCarro\obj\Debug\net8.0\3_CustoCarro.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\3_CustoCarro\obj\Debug\net8.0\ref\3_CustoCarro.dll

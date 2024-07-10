@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\1_AnosEmDias\bin\Debug\net8.0\1_AnosEmDias.exe
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\1_AnosEmDias\bin\Debug\net8.0\1_AnosEmDias.deps.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\1_AnosEmDias\bin\Debug\net8.0\1_AnosEmDias.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\1_AnosEmDias\bin\Debug\net8.0\1_AnosEmDias.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\1_AnosEmDias\bin\Debug\net8.0\1_AnosEmDias.pdb
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\1_AnosEmDias\obj\Debug\net8.0\1_AnosEmDias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\1_AnosEmDias\obj\Debug\net8.0\1_AnosEmDias.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\1_AnosEmDias\obj\Debug\net8.0\1_AnosEmDias.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\1_AnosEmDias\obj\Debug\net8.0\1_AnosEmDias.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\1_AnosEmDias\obj\Debug\net8.0\1_AnosEmDias.sourcelink.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\1_AnosEmDias\obj\Debug\net8.0\1_AnosEmDias.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\1_AnosEmDias\obj\Debug\net8.0\refint\1_AnosEmDias.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\1_AnosEmDias\obj\Debug\net8.0\1_AnosEmDias.pdb
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\1_AnosEmDias\obj\Debug\net8.0\1_AnosEmDias.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\1_AnosEmDias\obj\Debug\net8.0\ref\1_AnosEmDias.dll

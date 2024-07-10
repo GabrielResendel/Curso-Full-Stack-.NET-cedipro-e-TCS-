@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\9_PesoIdeal\bin\Debug\net8.0\9_PesoIdeal.exe
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\9_PesoIdeal\bin\Debug\net8.0\9_PesoIdeal.deps.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\9_PesoIdeal\bin\Debug\net8.0\9_PesoIdeal.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\9_PesoIdeal\bin\Debug\net8.0\9_PesoIdeal.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\9_PesoIdeal\bin\Debug\net8.0\9_PesoIdeal.pdb
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\9_PesoIdeal\obj\Debug\net8.0\9_PesoIdeal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\9_PesoIdeal\obj\Debug\net8.0\9_PesoIdeal.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\9_PesoIdeal\obj\Debug\net8.0\9_PesoIdeal.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\9_PesoIdeal\obj\Debug\net8.0\9_PesoIdeal.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\9_PesoIdeal\obj\Debug\net8.0\9_PesoIdeal.sourcelink.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\9_PesoIdeal\obj\Debug\net8.0\9_PesoIdeal.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\9_PesoIdeal\obj\Debug\net8.0\refint\9_PesoIdeal.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\9_PesoIdeal\obj\Debug\net8.0\9_PesoIdeal.pdb
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\9_PesoIdeal\obj\Debug\net8.0\9_PesoIdeal.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\9_PesoIdeal\obj\Debug\net8.0\ref\9_PesoIdeal.dll

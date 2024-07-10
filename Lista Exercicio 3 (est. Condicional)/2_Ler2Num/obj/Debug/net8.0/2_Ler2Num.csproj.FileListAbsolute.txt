@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\2_Ler2Num\bin\Debug\net8.0\2_Ler2Num.exe
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\2_Ler2Num\bin\Debug\net8.0\2_Ler2Num.deps.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\2_Ler2Num\bin\Debug\net8.0\2_Ler2Num.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\2_Ler2Num\bin\Debug\net8.0\2_Ler2Num.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\2_Ler2Num\bin\Debug\net8.0\2_Ler2Num.pdb
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\2_Ler2Num\obj\Debug\net8.0\2_Ler2Num.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\2_Ler2Num\obj\Debug\net8.0\2_Ler2Num.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\2_Ler2Num\obj\Debug\net8.0\2_Ler2Num.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\2_Ler2Num\obj\Debug\net8.0\2_Ler2Num.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\2_Ler2Num\obj\Debug\net8.0\2_Ler2Num.sourcelink.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\2_Ler2Num\obj\Debug\net8.0\2_Ler2Num.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\2_Ler2Num\obj\Debug\net8.0\refint\2_Ler2Num.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\2_Ler2Num\obj\Debug\net8.0\2_Ler2Num.pdb
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\2_Ler2Num\obj\Debug\net8.0\2_Ler2Num.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\2_Ler2Num\obj\Debug\net8.0\ref\2_Ler2Num.dll

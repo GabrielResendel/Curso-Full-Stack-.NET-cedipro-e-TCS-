@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\13_NotaMedia\bin\Debug\net8.0\13_NotaMedia.exe
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\13_NotaMedia\bin\Debug\net8.0\13_NotaMedia.deps.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\13_NotaMedia\bin\Debug\net8.0\13_NotaMedia.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\13_NotaMedia\bin\Debug\net8.0\13_NotaMedia.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\13_NotaMedia\bin\Debug\net8.0\13_NotaMedia.pdb
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\13_NotaMedia\obj\Debug\net8.0\13_NotaMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\13_NotaMedia\obj\Debug\net8.0\13_NotaMedia.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\13_NotaMedia\obj\Debug\net8.0\13_NotaMedia.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\13_NotaMedia\obj\Debug\net8.0\13_NotaMedia.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\13_NotaMedia\obj\Debug\net8.0\13_NotaMedia.sourcelink.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\13_NotaMedia\obj\Debug\net8.0\13_NotaMedia.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\13_NotaMedia\obj\Debug\net8.0\refint\13_NotaMedia.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\13_NotaMedia\obj\Debug\net8.0\13_NotaMedia.pdb
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\13_NotaMedia\obj\Debug\net8.0\13_NotaMedia.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\13_NotaMedia\obj\Debug\net8.0\ref\13_NotaMedia.dll

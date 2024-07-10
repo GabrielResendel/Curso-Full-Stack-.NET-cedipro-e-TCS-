@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\1_PosiOuNega\obj\Debug\net8.0\1_PosiOuNega.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\1_PosiOuNega\obj\Debug\net8.0\1_PosiOuNega.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\1_PosiOuNega\obj\Debug\net8.0\1_PosiOuNega.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\1_PosiOuNega\obj\Debug\net8.0\1_PosiOuNega.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\1_PosiOuNega\obj\Debug\net8.0\1_PosiOuNega.sourcelink.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\1_PosiOuNega\bin\Debug\net8.0\1_PosiOuNega.exe
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\1_PosiOuNega\bin\Debug\net8.0\1_PosiOuNega.deps.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\1_PosiOuNega\bin\Debug\net8.0\1_PosiOuNega.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\1_PosiOuNega\bin\Debug\net8.0\1_PosiOuNega.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\1_PosiOuNega\bin\Debug\net8.0\1_PosiOuNega.pdb
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\1_PosiOuNega\obj\Debug\net8.0\1_PosiOuNega.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\1_PosiOuNega\obj\Debug\net8.0\refint\1_PosiOuNega.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\1_PosiOuNega\obj\Debug\net8.0\1_PosiOuNega.pdb
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\1_PosiOuNega\obj\Debug\net8.0\1_PosiOuNega.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\1_PosiOuNega\obj\Debug\net8.0\ref\1_PosiOuNega.dll

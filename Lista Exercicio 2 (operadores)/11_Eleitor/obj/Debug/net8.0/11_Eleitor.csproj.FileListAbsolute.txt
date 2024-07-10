@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\11_Eleitor\bin\Debug\net8.0\11_Eleitor.exe
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\11_Eleitor\bin\Debug\net8.0\11_Eleitor.deps.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\11_Eleitor\bin\Debug\net8.0\11_Eleitor.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\11_Eleitor\bin\Debug\net8.0\11_Eleitor.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\11_Eleitor\bin\Debug\net8.0\11_Eleitor.pdb
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\11_Eleitor\obj\Debug\net8.0\11_Eleitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\11_Eleitor\obj\Debug\net8.0\11_Eleitor.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\11_Eleitor\obj\Debug\net8.0\11_Eleitor.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\11_Eleitor\obj\Debug\net8.0\11_Eleitor.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\11_Eleitor\obj\Debug\net8.0\11_Eleitor.sourcelink.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\11_Eleitor\obj\Debug\net8.0\11_Eleitor.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\11_Eleitor\obj\Debug\net8.0\refint\11_Eleitor.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\11_Eleitor\obj\Debug\net8.0\11_Eleitor.pdb
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\11_Eleitor\obj\Debug\net8.0\11_Eleitor.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\11_Eleitor\obj\Debug\net8.0\ref\11_Eleitor.dll

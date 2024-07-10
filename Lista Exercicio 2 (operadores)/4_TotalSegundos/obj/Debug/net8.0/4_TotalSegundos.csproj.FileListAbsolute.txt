@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\4_TotalSegundos\obj\Debug\net8.0\4_TotalSegundos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\4_TotalSegundos\obj\Debug\net8.0\4_TotalSegundos.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\4_TotalSegundos\obj\Debug\net8.0\4_TotalSegundos.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\4_TotalSegundos\obj\Debug\net8.0\4_TotalSegundos.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\4_TotalSegundos\obj\Debug\net8.0\4_TotalSegundos.sourcelink.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\4_TotalSegundos\bin\Debug\net8.0\4_TotalSegundos.exe
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\4_TotalSegundos\bin\Debug\net8.0\4_TotalSegundos.deps.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\4_TotalSegundos\bin\Debug\net8.0\4_TotalSegundos.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\4_TotalSegundos\bin\Debug\net8.0\4_TotalSegundos.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\4_TotalSegundos\bin\Debug\net8.0\4_TotalSegundos.pdb
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\4_TotalSegundos\obj\Debug\net8.0\4_TotalSegundos.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\4_TotalSegundos\obj\Debug\net8.0\refint\4_TotalSegundos.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\4_TotalSegundos\obj\Debug\net8.0\4_TotalSegundos.pdb
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\4_TotalSegundos\obj\Debug\net8.0\4_TotalSegundos.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\4_TotalSegundos\obj\Debug\net8.0\ref\4_TotalSegundos.dll

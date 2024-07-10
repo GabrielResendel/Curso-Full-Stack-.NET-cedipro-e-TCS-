@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\2_ConversorDeGraus\obj\Debug\net8.0\2_ConversorDeGraus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\2_ConversorDeGraus\obj\Debug\net8.0\2_ConversorDeGraus.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\2_ConversorDeGraus\obj\Debug\net8.0\2_ConversorDeGraus.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\2_ConversorDeGraus\obj\Debug\net8.0\2_ConversorDeGraus.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\2_ConversorDeGraus\obj\Debug\net8.0\2_ConversorDeGraus.sourcelink.json
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\2_ConversorDeGraus\bin\Debug\net8.0\2_ConversorDeGraus.exe
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\2_ConversorDeGraus\bin\Debug\net8.0\2_ConversorDeGraus.deps.json
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\2_ConversorDeGraus\bin\Debug\net8.0\2_ConversorDeGraus.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\2_ConversorDeGraus\bin\Debug\net8.0\2_ConversorDeGraus.dll
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\2_ConversorDeGraus\bin\Debug\net8.0\2_ConversorDeGraus.pdb
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\2_ConversorDeGraus\obj\Debug\net8.0\2_ConversorDeGraus.dll
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\2_ConversorDeGraus\obj\Debug\net8.0\refint\2_ConversorDeGraus.dll
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\2_ConversorDeGraus\obj\Debug\net8.0\2_ConversorDeGraus.pdb
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\2_ConversorDeGraus\obj\Debug\net8.0\2_ConversorDeGraus.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso TCS\atividade_1\Exercicio DESAFIOS (Ao infinito e além)\2_ConversorDeGraus\obj\Debug\net8.0\ref\2_ConversorDeGraus.dll

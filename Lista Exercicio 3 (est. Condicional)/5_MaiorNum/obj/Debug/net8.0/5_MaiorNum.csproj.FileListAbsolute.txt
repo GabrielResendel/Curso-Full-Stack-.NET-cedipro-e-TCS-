@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\5_MaiorNum\obj\Debug\net8.0\5_MaiorNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\5_MaiorNum\obj\Debug\net8.0\5_MaiorNum.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\5_MaiorNum\obj\Debug\net8.0\5_MaiorNum.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\5_MaiorNum\obj\Debug\net8.0\5_MaiorNum.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\5_MaiorNum\obj\Debug\net8.0\5_MaiorNum.sourcelink.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\5_MaiorNum\bin\Debug\net8.0\5_MaiorNum.exe
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\5_MaiorNum\bin\Debug\net8.0\5_MaiorNum.deps.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\5_MaiorNum\bin\Debug\net8.0\5_MaiorNum.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\5_MaiorNum\bin\Debug\net8.0\5_MaiorNum.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\5_MaiorNum\bin\Debug\net8.0\5_MaiorNum.pdb
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\5_MaiorNum\obj\Debug\net8.0\5_MaiorNum.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\5_MaiorNum\obj\Debug\net8.0\refint\5_MaiorNum.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\5_MaiorNum\obj\Debug\net8.0\5_MaiorNum.pdb
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\5_MaiorNum\obj\Debug\net8.0\5_MaiorNum.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\5_MaiorNum\obj\Debug\net8.0\ref\5_MaiorNum.dll

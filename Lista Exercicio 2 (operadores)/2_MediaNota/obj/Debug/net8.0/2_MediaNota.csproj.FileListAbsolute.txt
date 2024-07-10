@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\2_MediaNota\obj\Debug\net8.0\2_MediaNota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\2_MediaNota\obj\Debug\net8.0\2_MediaNota.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\2_MediaNota\obj\Debug\net8.0\2_MediaNota.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\2_MediaNota\obj\Debug\net8.0\2_MediaNota.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\2_MediaNota\obj\Debug\net8.0\2_MediaNota.sourcelink.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\2_MediaNota\bin\Debug\net8.0\2_MediaNota.exe
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\2_MediaNota\bin\Debug\net8.0\2_MediaNota.deps.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\2_MediaNota\bin\Debug\net8.0\2_MediaNota.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\2_MediaNota\bin\Debug\net8.0\2_MediaNota.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\2_MediaNota\bin\Debug\net8.0\2_MediaNota.pdb
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\2_MediaNota\obj\Debug\net8.0\2_MediaNota.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\2_MediaNota\obj\Debug\net8.0\refint\2_MediaNota.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\2_MediaNota\obj\Debug\net8.0\2_MediaNota.pdb
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\2_MediaNota\obj\Debug\net8.0\2_MediaNota.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_2\2_MediaNota\obj\Debug\net8.0\ref\2_MediaNota.dll

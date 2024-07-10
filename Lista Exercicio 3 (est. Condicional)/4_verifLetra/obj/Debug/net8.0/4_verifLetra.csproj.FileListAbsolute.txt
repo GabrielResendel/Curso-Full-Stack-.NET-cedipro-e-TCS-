@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\4_verifLetra\obj\Debug\net8.0\4_verifLetra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\4_verifLetra\obj\Debug\net8.0\4_verifLetra.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\4_verifLetra\obj\Debug\net8.0\4_verifLetra.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\4_verifLetra\obj\Debug\net8.0\4_verifLetra.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\4_verifLetra\obj\Debug\net8.0\4_verifLetra.sourcelink.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\4_verifLetra\bin\Debug\net8.0\4_verifLetra.exe
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\4_verifLetra\bin\Debug\net8.0\4_verifLetra.deps.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\4_verifLetra\bin\Debug\net8.0\4_verifLetra.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\4_verifLetra\bin\Debug\net8.0\4_verifLetra.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\4_verifLetra\bin\Debug\net8.0\4_verifLetra.pdb
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\4_verifLetra\obj\Debug\net8.0\4_verifLetra.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\4_verifLetra\obj\Debug\net8.0\refint\4_verifLetra.dll
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\4_verifLetra\obj\Debug\net8.0\4_verifLetra.pdb
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\4_verifLetra\obj\Debug\net8.0\4_verifLetra.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso TCS\ListaATV_3\4_verifLetra\obj\Debug\net8.0\ref\4_verifLetra.dll
