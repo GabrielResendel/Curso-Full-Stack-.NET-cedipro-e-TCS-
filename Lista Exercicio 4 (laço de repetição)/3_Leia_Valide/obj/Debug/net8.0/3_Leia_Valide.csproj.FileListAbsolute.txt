@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 4 (laço de repetição)\3_Leia_Valide\obj\Debug\net8.0\3_Leia_Valide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 4 (laço de repetição)\3_Leia_Valide\obj\Debug\net8.0\3_Leia_Valide.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 4 (laço de repetição)\3_Leia_Valide\obj\Debug\net8.0\3_Leia_Valide.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 4 (laço de repetição)\3_Leia_Valide\obj\Debug\net8.0\3_Leia_Valide.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 4 (laço de repetição)\3_Leia_Valide\obj\Debug\net8.0\3_Leia_Valide.sourcelink.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 4 (laço de repetição)\3_Leia_Valide\bin\Debug\net8.0\3_Leia_Valide.exe
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 4 (laço de repetição)\3_Leia_Valide\bin\Debug\net8.0\3_Leia_Valide.deps.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 4 (laço de repetição)\3_Leia_Valide\bin\Debug\net8.0\3_Leia_Valide.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 4 (laço de repetição)\3_Leia_Valide\bin\Debug\net8.0\3_Leia_Valide.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 4 (laço de repetição)\3_Leia_Valide\bin\Debug\net8.0\3_Leia_Valide.pdb
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 4 (laço de repetição)\3_Leia_Valide\obj\Debug\net8.0\3_Leia_Valide.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 4 (laço de repetição)\3_Leia_Valide\obj\Debug\net8.0\refint\3_Leia_Valide.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 4 (laço de repetição)\3_Leia_Valide\obj\Debug\net8.0\3_Leia_Valide.pdb
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 4 (laço de repetição)\3_Leia_Valide\obj\Debug\net8.0\3_Leia_Valide.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 4 (laço de repetição)\3_Leia_Valide\obj\Debug\net8.0\ref\3_Leia_Valide.dll
