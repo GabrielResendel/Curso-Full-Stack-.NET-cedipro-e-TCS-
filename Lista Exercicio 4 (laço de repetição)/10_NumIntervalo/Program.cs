@@ -18,15 +18,11 @@ namespace IntervaloNum
             if(Num1 < Num2){
                 MenorNum = Num1;
                 MaiorNum = Num2;
-
             }else {
 
                 MenorNum = Num2;
                 MaiorNum = Num1;
-
             }
-
-
 
                 for (int i = MenorNum + 1; i < MaiorNum; i++){
                 
@@ -34,8 +30,6 @@ namespace IntervaloNum
                 
                 }
                
-                
-        
         }
     }
 }
