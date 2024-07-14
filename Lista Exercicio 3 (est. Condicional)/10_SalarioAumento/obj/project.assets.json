@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Gabriel\\.nuget\\packages\\": {}
+    "C:\\Users\\pc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabriel\\Desktop\\curso TCS\\ListaATV_3\\10_SalarioAumento\\10_SalarioAumento.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\Documents\\Curso Fullstak\\Curso-Full-Stack-.NET-cedipro-e-TCS-\\Lista Exercicio 3 (est. Condicional)\\10_SalarioAumento\\10_SalarioAumento.csproj",
       "projectName": "10_SalarioAumento",
-      "projectPath": "C:\\Users\\Gabriel\\Desktop\\curso TCS\\ListaATV_3\\10_SalarioAumento\\10_SalarioAumento.csproj",
-      "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gabriel\\Desktop\\curso TCS\\ListaATV_3\\10_SalarioAumento\\obj\\",
+      "projectPath": "C:\\Users\\pc\\Documents\\Curso Fullstak\\Curso-Full-Stack-.NET-cedipro-e-TCS-\\Lista Exercicio 3 (est. Condicional)\\10_SalarioAumento\\10_SalarioAumento.csproj",
+      "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pc\\Documents\\Curso Fullstak\\Curso-Full-Stack-.NET-cedipro-e-TCS-\\Lista Exercicio 3 (est. Condicional)\\10_SalarioAumento\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
