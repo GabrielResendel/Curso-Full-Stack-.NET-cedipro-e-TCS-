@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\5_ProgAnt\bin\Debug\net8.0\5_ProgAnt.exe
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\5_ProgAnt\bin\Debug\net8.0\5_ProgAnt.deps.json
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\5_ProgAnt\bin\Debug\net8.0\5_ProgAnt.runtimeconfig.json
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\5_ProgAnt\bin\Debug\net8.0\5_ProgAnt.dll
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\5_ProgAnt\bin\Debug\net8.0\5_ProgAnt.pdb
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\5_ProgAnt\obj\Debug\net8.0\5_ProgAnt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\5_ProgAnt\obj\Debug\net8.0\5_ProgAnt.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\5_ProgAnt\obj\Debug\net8.0\5_ProgAnt.AssemblyInfo.cs
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\5_ProgAnt\obj\Debug\net8.0\5_ProgAnt.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\5_ProgAnt\obj\Debug\net8.0\5_ProgAnt.sourcelink.json
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\5_ProgAnt\obj\Debug\net8.0\5_ProgAnt.dll
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\5_ProgAnt\obj\Debug\net8.0\refint\5_ProgAnt.dll
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\5_ProgAnt\obj\Debug\net8.0\5_ProgAnt.pdb
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\5_ProgAnt\obj\Debug\net8.0\5_ProgAnt.genruntimeconfig.cache
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\5_ProgAnt\obj\Debug\net8.0\ref\5_ProgAnt.dll
