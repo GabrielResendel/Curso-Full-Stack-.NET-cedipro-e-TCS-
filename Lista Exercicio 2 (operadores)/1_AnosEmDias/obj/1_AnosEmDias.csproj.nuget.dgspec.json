@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel\\Desktop\\curso TCS\\ListaATV_2\\1_AnosEmDias\\1_AnosEmDias.csproj": {}
+    "C:\\Users\\pc\\Documents\\Curso Fullstak\\Curso-Full-Stack-.NET-cedipro-e-TCS-\\Lista Exercicio 2 (operadores)\\1_AnosEmDias\\1_AnosEmDias.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel\\Desktop\\curso TCS\\ListaATV_2\\1_AnosEmDias\\1_AnosEmDias.csproj": {
+    "C:\\Users\\pc\\Documents\\Curso Fullstak\\Curso-Full-Stack-.NET-cedipro-e-TCS-\\Lista Exercicio 2 (operadores)\\1_AnosEmDias\\1_AnosEmDias.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel\\Desktop\\curso TCS\\ListaATV_2\\1_AnosEmDias\\1_AnosEmDias.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\Documents\\Curso Fullstak\\Curso-Full-Stack-.NET-cedipro-e-TCS-\\Lista Exercicio 2 (operadores)\\1_AnosEmDias\\1_AnosEmDias.csproj",
         "projectName": "1_AnosEmDias",
-        "projectPath": "C:\\Users\\Gabriel\\Desktop\\curso TCS\\ListaATV_2\\1_AnosEmDias\\1_AnosEmDias.csproj",
-        "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel\\Desktop\\curso TCS\\ListaATV_2\\1_AnosEmDias\\obj\\",
+        "projectPath": "C:\\Users\\pc\\Documents\\Curso Fullstak\\Curso-Full-Stack-.NET-cedipro-e-TCS-\\Lista Exercicio 2 (operadores)\\1_AnosEmDias\\1_AnosEmDias.csproj",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pc\\Documents\\Curso Fullstak\\Curso-Full-Stack-.NET-cedipro-e-TCS-\\Lista Exercicio 2 (operadores)\\1_AnosEmDias\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
