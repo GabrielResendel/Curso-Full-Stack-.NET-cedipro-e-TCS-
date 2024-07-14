@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 4 (laço de repetição)\4_População++\obj\Debug\net8.0\4_População++.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 4 (laço de repetição)\4_População++\obj\Debug\net8.0\4_População++.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 4 (laço de repetição)\4_População++\obj\Debug\net8.0\4_População++.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 4 (laço de repetição)\4_População++\obj\Debug\net8.0\4_População++.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 4 (laço de repetição)\4_População++\obj\Debug\net8.0\4_População++.sourcelink.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 4 (laço de repetição)\4_População++\bin\Debug\net8.0\4_População++.exe
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 4 (laço de repetição)\4_População++\bin\Debug\net8.0\4_População++.deps.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 4 (laço de repetição)\4_População++\bin\Debug\net8.0\4_População++.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 4 (laço de repetição)\4_População++\bin\Debug\net8.0\4_População++.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 4 (laço de repetição)\4_População++\bin\Debug\net8.0\4_População++.pdb
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 4 (laço de repetição)\4_População++\obj\Debug\net8.0\4_População++.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 4 (laço de repetição)\4_População++\obj\Debug\net8.0\refint\4_População++.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 4 (laço de repetição)\4_População++\obj\Debug\net8.0\4_População++.pdb
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 4 (laço de repetição)\4_População++\obj\Debug\net8.0\4_População++.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 4 (laço de repetição)\4_População++\obj\Debug\net8.0\ref\4_População++.dll
