@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\10_NumIntervalo\bin\Debug\net8.0\10_NumIntervalo.exe
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\10_NumIntervalo\bin\Debug\net8.0\10_NumIntervalo.deps.json
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\10_NumIntervalo\bin\Debug\net8.0\10_NumIntervalo.runtimeconfig.json
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\10_NumIntervalo\bin\Debug\net8.0\10_NumIntervalo.dll
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\10_NumIntervalo\bin\Debug\net8.0\10_NumIntervalo.pdb
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\10_NumIntervalo\obj\Debug\net8.0\10_NumIntervalo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\10_NumIntervalo\obj\Debug\net8.0\10_NumIntervalo.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\10_NumIntervalo\obj\Debug\net8.0\10_NumIntervalo.AssemblyInfo.cs
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\10_NumIntervalo\obj\Debug\net8.0\10_NumIntervalo.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\10_NumIntervalo\obj\Debug\net8.0\10_NumIntervalo.sourcelink.json
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\10_NumIntervalo\obj\Debug\net8.0\10_NumIntervalo.dll
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\10_NumIntervalo\obj\Debug\net8.0\refint\10_NumIntervalo.dll
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\10_NumIntervalo\obj\Debug\net8.0\10_NumIntervalo.pdb
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\10_NumIntervalo\obj\Debug\net8.0\10_NumIntervalo.genruntimeconfig.cache
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\10_NumIntervalo\obj\Debug\net8.0\ref\10_NumIntervalo.dll
