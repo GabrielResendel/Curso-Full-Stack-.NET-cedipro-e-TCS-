@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\8_NumSomaMedia\bin\Debug\net8.0\8_NumSomaMedia.exe
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\8_NumSomaMedia\bin\Debug\net8.0\8_NumSomaMedia.deps.json
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\8_NumSomaMedia\bin\Debug\net8.0\8_NumSomaMedia.runtimeconfig.json
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\8_NumSomaMedia\bin\Debug\net8.0\8_NumSomaMedia.dll
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\8_NumSomaMedia\bin\Debug\net8.0\8_NumSomaMedia.pdb
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\8_NumSomaMedia\obj\Debug\net8.0\8_NumSomaMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\8_NumSomaMedia\obj\Debug\net8.0\8_NumSomaMedia.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\8_NumSomaMedia\obj\Debug\net8.0\8_NumSomaMedia.AssemblyInfo.cs
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\8_NumSomaMedia\obj\Debug\net8.0\8_NumSomaMedia.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\8_NumSomaMedia\obj\Debug\net8.0\8_NumSomaMedia.sourcelink.json
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\8_NumSomaMedia\obj\Debug\net8.0\8_NumSomaMedia.dll
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\8_NumSomaMedia\obj\Debug\net8.0\refint\8_NumSomaMedia.dll
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\8_NumSomaMedia\obj\Debug\net8.0\8_NumSomaMedia.pdb
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\8_NumSomaMedia\obj\Debug\net8.0\8_NumSomaMedia.genruntimeconfig.cache
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\8_NumSomaMedia\obj\Debug\net8.0\ref\8_NumSomaMedia.dll

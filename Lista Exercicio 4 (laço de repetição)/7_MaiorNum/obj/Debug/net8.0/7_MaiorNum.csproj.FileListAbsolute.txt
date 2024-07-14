@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\7_MaiorNum\bin\Debug\net8.0\7_MaiorNum.exe
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\7_MaiorNum\bin\Debug\net8.0\7_MaiorNum.deps.json
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\7_MaiorNum\bin\Debug\net8.0\7_MaiorNum.runtimeconfig.json
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\7_MaiorNum\bin\Debug\net8.0\7_MaiorNum.dll
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\7_MaiorNum\bin\Debug\net8.0\7_MaiorNum.pdb
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\7_MaiorNum\obj\Debug\net8.0\7_MaiorNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\7_MaiorNum\obj\Debug\net8.0\7_MaiorNum.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\7_MaiorNum\obj\Debug\net8.0\7_MaiorNum.AssemblyInfo.cs
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\7_MaiorNum\obj\Debug\net8.0\7_MaiorNum.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\7_MaiorNum\obj\Debug\net8.0\7_MaiorNum.sourcelink.json
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\7_MaiorNum\obj\Debug\net8.0\7_MaiorNum.dll
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\7_MaiorNum\obj\Debug\net8.0\refint\7_MaiorNum.dll
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\7_MaiorNum\obj\Debug\net8.0\7_MaiorNum.pdb
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\7_MaiorNum\obj\Debug\net8.0\7_MaiorNum.genruntimeconfig.cache
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\7_MaiorNum\obj\Debug\net8.0\ref\7_MaiorNum.dll
