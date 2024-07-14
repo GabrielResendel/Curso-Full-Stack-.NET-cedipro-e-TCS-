@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("5_TempViagem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4cc0b1676f56792492abfb6cde7d0374a2357ddb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc05bfc56f56400eee900bebe71df74ab41ae3e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("5_TempViagem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("5_TempViagem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
