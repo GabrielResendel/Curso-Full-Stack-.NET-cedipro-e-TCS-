@@ -13,10 +13,27 @@ namespace IntervaloNum
             int Num2 = int.Parse(Console.ReadLine());
 
                 
-                for (int i = Num1 - 1; Num1 < Num2; Num1++){
-                    Console.Write($"{i++}");
+            int MenorNum, MaiorNum;
+
+            if(Num1 < Num2){
+                MenorNum = Num1;
+                MaiorNum = Num2;
+
+            }else {
+
+                MenorNum = Num2;
+                MaiorNum = Num1;
+
+            }
+
+
+
+                for (int i = MenorNum + 1; i < MaiorNum; i++){
+                
+                    Console.Write($"{i} ");
+                
                 }
-                    
+               
                 
         
         }
