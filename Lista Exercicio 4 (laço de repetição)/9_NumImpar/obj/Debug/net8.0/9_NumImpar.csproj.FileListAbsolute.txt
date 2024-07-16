@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\9_NumImpar\bin\Debug\net8.0\9_NumImpar.exe
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\9_NumImpar\bin\Debug\net8.0\9_NumImpar.deps.json
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\9_NumImpar\bin\Debug\net8.0\9_NumImpar.runtimeconfig.json
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\9_NumImpar\bin\Debug\net8.0\9_NumImpar.dll
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\9_NumImpar\bin\Debug\net8.0\9_NumImpar.pdb
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\9_NumImpar\obj\Debug\net8.0\9_NumImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\9_NumImpar\obj\Debug\net8.0\9_NumImpar.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\9_NumImpar\obj\Debug\net8.0\9_NumImpar.AssemblyInfo.cs
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\9_NumImpar\obj\Debug\net8.0\9_NumImpar.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\9_NumImpar\obj\Debug\net8.0\9_NumImpar.sourcelink.json
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\9_NumImpar\obj\Debug\net8.0\9_NumImpar.dll
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\9_NumImpar\obj\Debug\net8.0\refint\9_NumImpar.dll
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\9_NumImpar\obj\Debug\net8.0\9_NumImpar.pdb
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\9_NumImpar\obj\Debug\net8.0\9_NumImpar.genruntimeconfig.cache
+C:\Users\pc\Documents\Curso Fullstak\Curso-Full-Stack-.NET-cedipro-e-TCS-\Lista Exercicio 4 (laço de repetição)\9_NumImpar\obj\Debug\net8.0\ref\9_NumImpar.dll
