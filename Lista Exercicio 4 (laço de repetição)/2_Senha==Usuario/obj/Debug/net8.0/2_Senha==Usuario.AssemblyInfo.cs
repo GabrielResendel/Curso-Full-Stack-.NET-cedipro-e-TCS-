@@ -13,11 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2_Senha==Usuario")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e03fb3fb1025443ebb4aac5236fedf01866f23f")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc05bfc56f56400eee900bebe71df74ab41ae3e2")]
->>>>>>> 71e95704eddf1acea7cad0bea682a079ea1cb22c
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fea9519434d01f2528bfdf545ea1dda5da324b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("2_Senha==Usuario")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2_Senha==Usuario")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
