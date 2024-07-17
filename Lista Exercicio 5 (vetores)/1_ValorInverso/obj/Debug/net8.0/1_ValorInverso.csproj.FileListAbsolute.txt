@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\1_ValorInverso\bin\Debug\net8.0\1_ValorInverso.exe
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\1_ValorInverso\bin\Debug\net8.0\1_ValorInverso.deps.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\1_ValorInverso\bin\Debug\net8.0\1_ValorInverso.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\1_ValorInverso\bin\Debug\net8.0\1_ValorInverso.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\1_ValorInverso\bin\Debug\net8.0\1_ValorInverso.pdb
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\1_ValorInverso\obj\Debug\net8.0\1_ValorInverso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\1_ValorInverso\obj\Debug\net8.0\1_ValorInverso.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\1_ValorInverso\obj\Debug\net8.0\1_ValorInverso.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\1_ValorInverso\obj\Debug\net8.0\1_ValorInverso.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\1_ValorInverso\obj\Debug\net8.0\1_ValorInverso.sourcelink.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\1_ValorInverso\obj\Debug\net8.0\1_ValorInverso.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\1_ValorInverso\obj\Debug\net8.0\refint\1_ValorInverso.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\1_ValorInverso\obj\Debug\net8.0\1_ValorInverso.pdb
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\1_ValorInverso\obj\Debug\net8.0\1_ValorInverso.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\1_ValorInverso\obj\Debug\net8.0\ref\1_ValorInverso.dll
