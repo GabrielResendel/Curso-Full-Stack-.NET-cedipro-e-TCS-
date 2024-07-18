@@ -6,9 +6,10 @@ namespace VetorImparPar
     {
         static void Main(string[] args)
         {
-            int[] Vetor = new int[20];
-            int contImpar = 0;
-            int contPar = 0;
+
+        int[] Vetor = new int[20];
+        int contImpar = 0;
+        int contPar = 0;
 
             Console.WriteLine("Digite 20 numeros inteiros: ");
 
@@ -16,20 +17,22 @@ namespace VetorImparPar
                 Vetor[i] = int.Parse(Console.ReadLine());
             }
 
-            for (int i = 0;i < 20; i++){
+                //contando o tamanho do vetor impar e par
+                for (int i = 0;i < 20; i++){
 
-                if(Vetor[i] % 2 == 0){
-                    contPar++;
-                }else {
-                    contImpar++;
+                    if(Vetor[i] % 2 == 0){
+                        contPar++;
+                    }else {
+                        contImpar++;
+                    }
                 }
-            }
 
-            int[] Impar = new int[contImpar];
-            int[] Par = new int[contPar];
-            int IndexPar = 0;
-            int IndexImpar = 0;
-
+        int[] Impar = new int[contImpar];
+        int[] Par = new int[contPar];
+        int IndexPar = 0;
+        int IndexImpar = 0;
+        
+            //adicionando nos vetores
             for (int i = 0;i < 20; i++){
 
                 if(Vetor[i] % 2 == 0){
@@ -43,21 +46,21 @@ namespace VetorImparPar
                 }
             }
             
-            Console.Write ("\nOs valores digitados foram:");
-            for(int i = 0;i < Vetor.Length; i++){
-                Console.Write($"{Vetor[i]} ");
-            }
+        Console.Write ("\nOs valores digitados foram:");
+        for(int i = 0;i < Vetor.Length; i++){
+            Console.Write($"{Vetor[i]} ");
+        }
 
-            Console.WriteLine("\nOs numeros pares foram:");
-            for(int i = 0;i < Par.Length; i++){
-                Console.Write($"{Par[i]} ");
-            }
+        Console.WriteLine("\nOs numeros pares foram:");
+        for(int i = 0;i < Par.Length; i++){
+            Console.Write($"{Par[i]} ");
+        }
 
-            Console.WriteLine("\nOs numeros Impares foram: ");
-            for(int i = 0;i < Impar.Length; i++){
-                Console.Write($"{Impar[i]} ");
-            }
-        
+        Console.WriteLine("\nOs numeros Impares foram: ");
+        for(int i = 0;i < Impar.Length; i++){
+            Console.Write($"{Impar[i]} ");
+        }
+    
 
 
 
