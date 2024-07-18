@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\2_Consoantes\bin\Debug\net8.0\2_Consoantes.exe
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\2_Consoantes\bin\Debug\net8.0\2_Consoantes.deps.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\2_Consoantes\bin\Debug\net8.0\2_Consoantes.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\2_Consoantes\bin\Debug\net8.0\2_Consoantes.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\2_Consoantes\bin\Debug\net8.0\2_Consoantes.pdb
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\2_Consoantes\obj\Debug\net8.0\2_Consoantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\2_Consoantes\obj\Debug\net8.0\2_Consoantes.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\2_Consoantes\obj\Debug\net8.0\2_Consoantes.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\2_Consoantes\obj\Debug\net8.0\2_Consoantes.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\2_Consoantes\obj\Debug\net8.0\2_Consoantes.sourcelink.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\2_Consoantes\obj\Debug\net8.0\2_Consoantes.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\2_Consoantes\obj\Debug\net8.0\refint\2_Consoantes.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\2_Consoantes\obj\Debug\net8.0\2_Consoantes.pdb
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\2_Consoantes\obj\Debug\net8.0\2_Consoantes.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\2_Consoantes\obj\Debug\net8.0\ref\2_Consoantes.dll

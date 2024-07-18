@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\3_VetorImparPar\obj\Debug\net8.0\3_VetorImparPar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\3_VetorImparPar\obj\Debug\net8.0\3_VetorImparPar.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\3_VetorImparPar\obj\Debug\net8.0\3_VetorImparPar.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\3_VetorImparPar\obj\Debug\net8.0\3_VetorImparPar.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\3_VetorImparPar\obj\Debug\net8.0\3_VetorImparPar.sourcelink.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\3_VetorImparPar\bin\Debug\net8.0\3_VetorImparPar.exe
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\3_VetorImparPar\bin\Debug\net8.0\3_VetorImparPar.deps.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\3_VetorImparPar\bin\Debug\net8.0\3_VetorImparPar.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\3_VetorImparPar\bin\Debug\net8.0\3_VetorImparPar.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\3_VetorImparPar\bin\Debug\net8.0\3_VetorImparPar.pdb
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\3_VetorImparPar\obj\Debug\net8.0\3_VetorImparPar.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\3_VetorImparPar\obj\Debug\net8.0\refint\3_VetorImparPar.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\3_VetorImparPar\obj\Debug\net8.0\3_VetorImparPar.pdb
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\3_VetorImparPar\obj\Debug\net8.0\3_VetorImparPar.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\3_VetorImparPar\obj\Debug\net8.0\ref\3_VetorImparPar.dll
