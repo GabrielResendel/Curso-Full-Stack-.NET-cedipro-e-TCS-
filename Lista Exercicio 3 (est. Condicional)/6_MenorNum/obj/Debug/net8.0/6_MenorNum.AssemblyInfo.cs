@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("6_MenorNum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04d5c541521d3f5504ee1a2462e2d503f8613647")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+124d0f380bc1318afef297fd1b7ab15ed981aa5f")]
 [assembly: System.Reflection.AssemblyProductAttribute("6_MenorNum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("6_MenorNum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
