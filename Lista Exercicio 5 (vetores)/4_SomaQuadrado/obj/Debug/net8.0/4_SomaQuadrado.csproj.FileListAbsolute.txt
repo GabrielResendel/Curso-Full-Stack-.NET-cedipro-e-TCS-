@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\4_SomaQuadrado\bin\Debug\net8.0\4_SomaQuadrado.exe
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\4_SomaQuadrado\bin\Debug\net8.0\4_SomaQuadrado.deps.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\4_SomaQuadrado\bin\Debug\net8.0\4_SomaQuadrado.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\4_SomaQuadrado\bin\Debug\net8.0\4_SomaQuadrado.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\4_SomaQuadrado\bin\Debug\net8.0\4_SomaQuadrado.pdb
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\4_SomaQuadrado\obj\Debug\net8.0\4_SomaQuadrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\4_SomaQuadrado\obj\Debug\net8.0\4_SomaQuadrado.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\4_SomaQuadrado\obj\Debug\net8.0\4_SomaQuadrado.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\4_SomaQuadrado\obj\Debug\net8.0\4_SomaQuadrado.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\4_SomaQuadrado\obj\Debug\net8.0\4_SomaQuadrado.sourcelink.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\4_SomaQuadrado\obj\Debug\net8.0\4_SomaQuadrado.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\4_SomaQuadrado\obj\Debug\net8.0\refint\4_SomaQuadrado.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\4_SomaQuadrado\obj\Debug\net8.0\4_SomaQuadrado.pdb
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\4_SomaQuadrado\obj\Debug\net8.0\4_SomaQuadrado.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\4_SomaQuadrado\obj\Debug\net8.0\ref\4_SomaQuadrado.dll

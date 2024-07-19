@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\5_IdadeAltura\obj\Debug\net8.0\5_IdadeAltura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\5_IdadeAltura\obj\Debug\net8.0\5_IdadeAltura.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\5_IdadeAltura\obj\Debug\net8.0\5_IdadeAltura.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\5_IdadeAltura\obj\Debug\net8.0\5_IdadeAltura.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\5_IdadeAltura\obj\Debug\net8.0\5_IdadeAltura.sourcelink.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\5_IdadeAltura\bin\Debug\net8.0\5_IdadeAltura.exe
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\5_IdadeAltura\bin\Debug\net8.0\5_IdadeAltura.deps.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\5_IdadeAltura\bin\Debug\net8.0\5_IdadeAltura.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\5_IdadeAltura\bin\Debug\net8.0\5_IdadeAltura.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\5_IdadeAltura\bin\Debug\net8.0\5_IdadeAltura.pdb
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\5_IdadeAltura\obj\Debug\net8.0\5_IdadeAltura.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\5_IdadeAltura\obj\Debug\net8.0\refint\5_IdadeAltura.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\5_IdadeAltura\obj\Debug\net8.0\5_IdadeAltura.pdb
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\5_IdadeAltura\obj\Debug\net8.0\5_IdadeAltura.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\5_IdadeAltura\obj\Debug\net8.0\ref\5_IdadeAltura.dll
