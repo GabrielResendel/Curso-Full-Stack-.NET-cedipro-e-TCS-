@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\8_Percentual\bin\Debug\net8.0\8_Percentual.exe
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\8_Percentual\bin\Debug\net8.0\8_Percentual.deps.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\8_Percentual\bin\Debug\net8.0\8_Percentual.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\8_Percentual\bin\Debug\net8.0\8_Percentual.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\8_Percentual\bin\Debug\net8.0\8_Percentual.pdb
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\8_Percentual\obj\Debug\net8.0\8_Percentual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\8_Percentual\obj\Debug\net8.0\8_Percentual.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\8_Percentual\obj\Debug\net8.0\8_Percentual.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\8_Percentual\obj\Debug\net8.0\8_Percentual.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\8_Percentual\obj\Debug\net8.0\8_Percentual.sourcelink.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\8_Percentual\obj\Debug\net8.0\8_Percentual.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\8_Percentual\obj\Debug\net8.0\refint\8_Percentual.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\8_Percentual\obj\Debug\net8.0\8_Percentual.pdb
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\8_Percentual\obj\Debug\net8.0\8_Percentual.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\8_Percentual\obj\Debug\net8.0\ref\8_Percentual.dll

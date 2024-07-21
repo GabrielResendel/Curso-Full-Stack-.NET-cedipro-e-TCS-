@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\7_Distancia\bin\Debug\net8.0\7_Distancia.exe
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\7_Distancia\bin\Debug\net8.0\7_Distancia.deps.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\7_Distancia\bin\Debug\net8.0\7_Distancia.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\7_Distancia\bin\Debug\net8.0\7_Distancia.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\7_Distancia\bin\Debug\net8.0\7_Distancia.pdb
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\7_Distancia\obj\Debug\net8.0\7_Distancia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\7_Distancia\obj\Debug\net8.0\7_Distancia.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\7_Distancia\obj\Debug\net8.0\7_Distancia.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\7_Distancia\obj\Debug\net8.0\7_Distancia.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\7_Distancia\obj\Debug\net8.0\7_Distancia.sourcelink.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\7_Distancia\obj\Debug\net8.0\7_Distancia.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\7_Distancia\obj\Debug\net8.0\refint\7_Distancia.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\7_Distancia\obj\Debug\net8.0\7_Distancia.pdb
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\7_Distancia\obj\Debug\net8.0\7_Distancia.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 5 (vetores)\7_Distancia\obj\Debug\net8.0\ref\7_Distancia.dll
