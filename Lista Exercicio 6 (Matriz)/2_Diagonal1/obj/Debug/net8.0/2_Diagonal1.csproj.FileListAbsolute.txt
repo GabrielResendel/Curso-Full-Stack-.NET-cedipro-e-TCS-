@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 6 (Matriz)\2_Diagonal1\obj\Debug\net8.0\2_Diagonal1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 6 (Matriz)\2_Diagonal1\obj\Debug\net8.0\2_Diagonal1.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 6 (Matriz)\2_Diagonal1\obj\Debug\net8.0\2_Diagonal1.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 6 (Matriz)\2_Diagonal1\obj\Debug\net8.0\2_Diagonal1.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 6 (Matriz)\2_Diagonal1\obj\Debug\net8.0\2_Diagonal1.sourcelink.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 6 (Matriz)\2_Diagonal1\bin\Debug\net8.0\2_Diagonal1.exe
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 6 (Matriz)\2_Diagonal1\bin\Debug\net8.0\2_Diagonal1.deps.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 6 (Matriz)\2_Diagonal1\bin\Debug\net8.0\2_Diagonal1.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 6 (Matriz)\2_Diagonal1\bin\Debug\net8.0\2_Diagonal1.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 6 (Matriz)\2_Diagonal1\bin\Debug\net8.0\2_Diagonal1.pdb
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 6 (Matriz)\2_Diagonal1\obj\Debug\net8.0\2_Diagonal1.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 6 (Matriz)\2_Diagonal1\obj\Debug\net8.0\refint\2_Diagonal1.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 6 (Matriz)\2_Diagonal1\obj\Debug\net8.0\2_Diagonal1.pdb
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 6 (Matriz)\2_Diagonal1\obj\Debug\net8.0\2_Diagonal1.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 6 (Matriz)\2_Diagonal1\obj\Debug\net8.0\ref\2_Diagonal1.dll

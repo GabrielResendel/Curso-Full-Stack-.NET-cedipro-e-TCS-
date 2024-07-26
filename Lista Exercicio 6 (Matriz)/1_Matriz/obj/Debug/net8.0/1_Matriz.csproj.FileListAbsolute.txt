@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 6 (Matriz)\1_Matriz\obj\Debug\net8.0\1_Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 6 (Matriz)\1_Matriz\obj\Debug\net8.0\1_Matriz.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 6 (Matriz)\1_Matriz\obj\Debug\net8.0\1_Matriz.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 6 (Matriz)\1_Matriz\obj\Debug\net8.0\1_Matriz.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 6 (Matriz)\1_Matriz\obj\Debug\net8.0\1_Matriz.sourcelink.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 6 (Matriz)\1_Matriz\bin\Debug\net8.0\1_Matriz.exe
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 6 (Matriz)\1_Matriz\bin\Debug\net8.0\1_Matriz.deps.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 6 (Matriz)\1_Matriz\bin\Debug\net8.0\1_Matriz.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 6 (Matriz)\1_Matriz\bin\Debug\net8.0\1_Matriz.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 6 (Matriz)\1_Matriz\bin\Debug\net8.0\1_Matriz.pdb
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 6 (Matriz)\1_Matriz\obj\Debug\net8.0\1_Matriz.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 6 (Matriz)\1_Matriz\obj\Debug\net8.0\refint\1_Matriz.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 6 (Matriz)\1_Matriz\obj\Debug\net8.0\1_Matriz.pdb
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 6 (Matriz)\1_Matriz\obj\Debug\net8.0\1_Matriz.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Lista Exercicio 6 (Matriz)\1_Matriz\obj\Debug\net8.0\ref\1_Matriz.dll
