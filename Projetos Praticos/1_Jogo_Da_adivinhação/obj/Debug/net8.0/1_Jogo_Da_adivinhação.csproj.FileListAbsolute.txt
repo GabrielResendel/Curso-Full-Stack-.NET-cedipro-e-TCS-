@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Projetos Praticos\1_Jogo_Da_adivinhação\obj\Debug\net8.0\1_Jogo_Da_adivinhação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Projetos Praticos\1_Jogo_Da_adivinhação\obj\Debug\net8.0\1_Jogo_Da_adivinhação.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Projetos Praticos\1_Jogo_Da_adivinhação\obj\Debug\net8.0\1_Jogo_Da_adivinhação.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Projetos Praticos\1_Jogo_Da_adivinhação\obj\Debug\net8.0\1_Jogo_Da_adivinhação.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Projetos Praticos\1_Jogo_Da_adivinhação\obj\Debug\net8.0\1_Jogo_Da_adivinhação.sourcelink.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Projetos Praticos\1_Jogo_Da_adivinhação\bin\Debug\net8.0\1_Jogo_Da_adivinhação.exe
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Projetos Praticos\1_Jogo_Da_adivinhação\bin\Debug\net8.0\1_Jogo_Da_adivinhação.deps.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Projetos Praticos\1_Jogo_Da_adivinhação\bin\Debug\net8.0\1_Jogo_Da_adivinhação.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Projetos Praticos\1_Jogo_Da_adivinhação\bin\Debug\net8.0\1_Jogo_Da_adivinhação.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Projetos Praticos\1_Jogo_Da_adivinhação\bin\Debug\net8.0\1_Jogo_Da_adivinhação.pdb
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Projetos Praticos\1_Jogo_Da_adivinhação\obj\Debug\net8.0\1_Jogo_Da_adivinhação.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Projetos Praticos\1_Jogo_Da_adivinhação\obj\Debug\net8.0\refint\1_Jogo_Da_adivinhação.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Projetos Praticos\1_Jogo_Da_adivinhação\obj\Debug\net8.0\1_Jogo_Da_adivinhação.pdb
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Projetos Praticos\1_Jogo_Da_adivinhação\obj\Debug\net8.0\1_Jogo_Da_adivinhação.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Projetos Praticos\1_Jogo_Da_adivinhação\obj\Debug\net8.0\ref\1_Jogo_Da_adivinhação.dll
