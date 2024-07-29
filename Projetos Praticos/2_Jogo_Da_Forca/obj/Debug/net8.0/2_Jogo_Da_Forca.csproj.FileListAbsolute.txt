@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Projetos Praticos\2_Jogo_Da_Forca\bin\Debug\net8.0\2_Jogo_Da_Forca.exe
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Projetos Praticos\2_Jogo_Da_Forca\bin\Debug\net8.0\2_Jogo_Da_Forca.deps.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Projetos Praticos\2_Jogo_Da_Forca\bin\Debug\net8.0\2_Jogo_Da_Forca.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Projetos Praticos\2_Jogo_Da_Forca\bin\Debug\net8.0\2_Jogo_Da_Forca.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Projetos Praticos\2_Jogo_Da_Forca\bin\Debug\net8.0\2_Jogo_Da_Forca.pdb
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Projetos Praticos\2_Jogo_Da_Forca\obj\Debug\net8.0\2_Jogo_Da_Forca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Projetos Praticos\2_Jogo_Da_Forca\obj\Debug\net8.0\2_Jogo_Da_Forca.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Projetos Praticos\2_Jogo_Da_Forca\obj\Debug\net8.0\2_Jogo_Da_Forca.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Projetos Praticos\2_Jogo_Da_Forca\obj\Debug\net8.0\2_Jogo_Da_Forca.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Projetos Praticos\2_Jogo_Da_Forca\obj\Debug\net8.0\2_Jogo_Da_Forca.sourcelink.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Projetos Praticos\2_Jogo_Da_Forca\obj\Debug\net8.0\2_Jogo_Da_Forca.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Projetos Praticos\2_Jogo_Da_Forca\obj\Debug\net8.0\refint\2_Jogo_Da_Forca.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Projetos Praticos\2_Jogo_Da_Forca\obj\Debug\net8.0\2_Jogo_Da_Forca.pdb
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Projetos Praticos\2_Jogo_Da_Forca\obj\Debug\net8.0\2_Jogo_Da_Forca.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Projetos Praticos\2_Jogo_Da_Forca\obj\Debug\net8.0\ref\2_Jogo_Da_Forca.dll
