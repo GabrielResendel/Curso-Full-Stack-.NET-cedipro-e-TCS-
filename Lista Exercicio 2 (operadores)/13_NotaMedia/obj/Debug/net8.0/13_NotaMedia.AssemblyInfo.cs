@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("13_NotaMedia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81fbb3401f44e0a54b66bef24ae184e74e8d6fa5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bd43456de5aa2f7a91a77101d3a09906a01129a")]
 [assembly: System.Reflection.AssemblyProductAttribute("13_NotaMedia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("13_NotaMedia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
