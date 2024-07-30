@@ -27,6 +27,7 @@ namespace JogoForca
 
         int acertos = 0;
         char letra;
+        int chance = 6;
 
             while(acertos < resposta.Length){
                 Console.Write("\nDigite uma letra\n");
@@ -37,12 +38,17 @@ namespace JogoForca
                         acertos++;
                         vetor[i]= letra;
                     }else{
+                        chance--;
                         continue;
                     }                   
                 }
 
                 for(int j = 0;j < resposta.Length;j++){
                 Console.Write($"{vetor[j]} ");
+                }
+                if(chance == 0){
+                    Console.WriteLine($"Você perdeu a palavra era: {resposta}");
+                    break;
                 }
             }
         
