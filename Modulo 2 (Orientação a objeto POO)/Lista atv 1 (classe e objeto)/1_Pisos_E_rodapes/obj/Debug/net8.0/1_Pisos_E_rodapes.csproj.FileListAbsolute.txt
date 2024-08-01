@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Modulo 2 (Orientação a objeto POO)\Lista atv 1 (classe e objeto)\1_Pisos_E_rodapes\obj\Debug\net8.0\1_Pisos_E_rodapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Modulo 2 (Orientação a objeto POO)\Lista atv 1 (classe e objeto)\1_Pisos_E_rodapes\obj\Debug\net8.0\1_Pisos_E_rodapes.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Modulo 2 (Orientação a objeto POO)\Lista atv 1 (classe e objeto)\1_Pisos_E_rodapes\obj\Debug\net8.0\1_Pisos_E_rodapes.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Modulo 2 (Orientação a objeto POO)\Lista atv 1 (classe e objeto)\1_Pisos_E_rodapes\obj\Debug\net8.0\1_Pisos_E_rodapes.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Modulo 2 (Orientação a objeto POO)\Lista atv 1 (classe e objeto)\1_Pisos_E_rodapes\obj\Debug\net8.0\1_Pisos_E_rodapes.sourcelink.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Modulo 2 (Orientação a objeto POO)\Lista atv 1 (classe e objeto)\1_Pisos_E_rodapes\bin\Debug\net8.0\1_Pisos_E_rodapes.exe
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Modulo 2 (Orientação a objeto POO)\Lista atv 1 (classe e objeto)\1_Pisos_E_rodapes\bin\Debug\net8.0\1_Pisos_E_rodapes.deps.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Modulo 2 (Orientação a objeto POO)\Lista atv 1 (classe e objeto)\1_Pisos_E_rodapes\bin\Debug\net8.0\1_Pisos_E_rodapes.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Modulo 2 (Orientação a objeto POO)\Lista atv 1 (classe e objeto)\1_Pisos_E_rodapes\bin\Debug\net8.0\1_Pisos_E_rodapes.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Modulo 2 (Orientação a objeto POO)\Lista atv 1 (classe e objeto)\1_Pisos_E_rodapes\bin\Debug\net8.0\1_Pisos_E_rodapes.pdb
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Modulo 2 (Orientação a objeto POO)\Lista atv 1 (classe e objeto)\1_Pisos_E_rodapes\obj\Debug\net8.0\1_Pisos_E_rodapes.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Modulo 2 (Orientação a objeto POO)\Lista atv 1 (classe e objeto)\1_Pisos_E_rodapes\obj\Debug\net8.0\refint\1_Pisos_E_rodapes.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Modulo 2 (Orientação a objeto POO)\Lista atv 1 (classe e objeto)\1_Pisos_E_rodapes\obj\Debug\net8.0\1_Pisos_E_rodapes.pdb
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Modulo 2 (Orientação a objeto POO)\Lista atv 1 (classe e objeto)\1_Pisos_E_rodapes\obj\Debug\net8.0\1_Pisos_E_rodapes.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Modulo 2 (Orientação a objeto POO)\Lista atv 1 (classe e objeto)\1_Pisos_E_rodapes\obj\Debug\net8.0\ref\1_Pisos_E_rodapes.dll
