@@ -13,15 +13,14 @@ namespace Pisos_E_rodapes
 
 
         // Metodos
-        public void MudarValor(){
-            Console.WriteLine("Digite o valor:");
-            A = Convert.ToDouble(Console.ReadLine());
+        public double MudarValor(){
+            return Convert.ToDouble(Console.ReadLine());
         }
 
         public void RetornarValor(){
-            Console.WriteLine("Valores dos lados: ");
-            Console.Write($"Lado A: {A}\n");
-            Console.Write($"Lado B: {B}");
+            Console.WriteLine("Valores do retangulo: ");
+            Console.Write($"Comprimento: {A}\n");
+            Console.Write($"Largura: {B}");
             
         }
 
