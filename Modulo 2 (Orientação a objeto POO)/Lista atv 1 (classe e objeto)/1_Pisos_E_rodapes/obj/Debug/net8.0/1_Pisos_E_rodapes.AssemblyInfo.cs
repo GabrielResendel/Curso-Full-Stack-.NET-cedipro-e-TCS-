@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("1_Pisos_E_rodapes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+267d4c8344df921722bb7142a8e991819a2688b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36f59ed1e341b69feb0251cf3839bc4c0614c289")]
 [assembly: System.Reflection.AssemblyProductAttribute("1_Pisos_E_rodapes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("1_Pisos_E_rodapes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
