@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Modulo 2 (Orientação a objeto POO)\Lista atv 1 (classe e objeto)\2_Tv\obj\Debug\net8.0\2_Tv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Modulo 2 (Orientação a objeto POO)\Lista atv 1 (classe e objeto)\2_Tv\obj\Debug\net8.0\2_Tv.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Modulo 2 (Orientação a objeto POO)\Lista atv 1 (classe e objeto)\2_Tv\obj\Debug\net8.0\2_Tv.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Modulo 2 (Orientação a objeto POO)\Lista atv 1 (classe e objeto)\2_Tv\obj\Debug\net8.0\2_Tv.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Modulo 2 (Orientação a objeto POO)\Lista atv 1 (classe e objeto)\2_Tv\obj\Debug\net8.0\2_Tv.sourcelink.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Modulo 2 (Orientação a objeto POO)\Lista atv 1 (classe e objeto)\2_Tv\bin\Debug\net8.0\2_Tv.exe
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Modulo 2 (Orientação a objeto POO)\Lista atv 1 (classe e objeto)\2_Tv\bin\Debug\net8.0\2_Tv.deps.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Modulo 2 (Orientação a objeto POO)\Lista atv 1 (classe e objeto)\2_Tv\bin\Debug\net8.0\2_Tv.runtimeconfig.json
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Modulo 2 (Orientação a objeto POO)\Lista atv 1 (classe e objeto)\2_Tv\bin\Debug\net8.0\2_Tv.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Modulo 2 (Orientação a objeto POO)\Lista atv 1 (classe e objeto)\2_Tv\bin\Debug\net8.0\2_Tv.pdb
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Modulo 2 (Orientação a objeto POO)\Lista atv 1 (classe e objeto)\2_Tv\obj\Debug\net8.0\2_Tv.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Modulo 2 (Orientação a objeto POO)\Lista atv 1 (classe e objeto)\2_Tv\obj\Debug\net8.0\refint\2_Tv.dll
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Modulo 2 (Orientação a objeto POO)\Lista atv 1 (classe e objeto)\2_Tv\obj\Debug\net8.0\2_Tv.pdb
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Modulo 2 (Orientação a objeto POO)\Lista atv 1 (classe e objeto)\2_Tv\obj\Debug\net8.0\2_Tv.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\curso Full Stack TCS\Modulo 2 (Orientação a objeto POO)\Lista atv 1 (classe e objeto)\2_Tv\obj\Debug\net8.0\ref\2_Tv.dll
