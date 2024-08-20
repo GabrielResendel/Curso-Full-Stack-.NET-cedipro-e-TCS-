@@ -1,7 +1,6 @@
 using Microsoft.EntityFrameworkCore;
-using SistemaPromocaoMVC.Data;
+using SistemaPromocao.Data;
 
-var builder =
 
 var builder = WebApplication.CreateBuilder(args);
 

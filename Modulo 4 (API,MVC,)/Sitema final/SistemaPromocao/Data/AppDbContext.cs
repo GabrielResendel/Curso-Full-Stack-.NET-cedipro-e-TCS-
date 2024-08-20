@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using SistemaPromocaoMVC.Models;
+using SistemaPromocao.Models;
 
 public class AppDbContext : DbContext
 {

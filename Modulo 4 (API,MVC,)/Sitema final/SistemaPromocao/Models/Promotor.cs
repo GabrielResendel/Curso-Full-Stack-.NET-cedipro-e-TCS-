@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace SistemaPromocaoMVC.Models
+namespace SistemaPromocao.Models
 {
     public abstract class Promotor
     {

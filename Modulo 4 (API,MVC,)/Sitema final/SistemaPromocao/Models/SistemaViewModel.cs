@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace SistemaPromocaoMVC.Models
+namespace SistemaPromocao.Models
 {
     public class SistemaViewModel
     {

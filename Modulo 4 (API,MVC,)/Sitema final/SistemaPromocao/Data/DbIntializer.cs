@@ -1,4 +1,4 @@
-using SistemaPromocaoMVC.Models;
+using SistemaPromocao.Models;
 using System;
 using System.Collections.Generic;
 public static class DbInitializer

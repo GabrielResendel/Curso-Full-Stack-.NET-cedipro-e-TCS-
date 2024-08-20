@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using SistemaPromocaoMVC.Data;
-using SistemaPromocaoMVC.Models;
+using SistemaPromocao.Models;
 
 public class HomeController : Controller
 {
