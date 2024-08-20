@@ -1,0 +1,33 @@
+@model SistemaPromocaoMVC.Models.SistemaViewModel
+
+<h2>Escritores</h2>
+<ul>
+@foreach (var escritor in Model.Escritores)
+{
+    <li>@escritor.Nome @escritor.Sobrenome - @escritor.Biografia (@escritor.Tipo)</li>
+}
+</ul>
+
+<h2>Promotores</h2>
+<ul>
+@foreach (var promotor in Model.Promotores)
+{
+    <li>@promotor.Nome @promotor.Sobrenome - @promotor.Telefone (@promotor.Local)</li>
+}
+</ul>
+
+<h2>Bodybuilders</h2>
+<ul>
+@foreach (var bodybuilder in Model.Bodybuilders)
+{
+    <li>@bodybuilder.Nome @bodybuilder.Sobrenome</li>
+}
+</ul>
+
+<h2>Vloggers</h2>
+<ul>
+@foreach (var vlogger in Model.Vloggers)
+{
+    <li>@vlogger.Nome @vlogger.Sobrenome</li>
+}
+</ul>
