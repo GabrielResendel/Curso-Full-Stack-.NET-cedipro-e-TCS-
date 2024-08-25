@@ -12,7 +12,7 @@ namespace ProEventos.API.Controllers
         public IEnumerable<Evento> _evento = new Evento[] {
 
             new Evento(){
-                 EventoId = 1,
+                EventoId = 1,
                 Local = "Australia",
                 DataEvento = DateTime.Now.AddDays(10).ToString(),
                 Tema = "Curso de Full Stack",
@@ -22,7 +22,7 @@ namespace ProEventos.API.Controllers
             },
 
              new Evento(){
-                 EventoId = 2,
+                EventoId = 2,
                 Local = "Afeganistão",
                 DataEvento = DateTime.Now.AddDays(10).ToString(),
                 Tema = "Curso de Terrorismo",
