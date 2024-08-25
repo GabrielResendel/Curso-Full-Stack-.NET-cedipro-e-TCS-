@@ -9,11 +9,11 @@ namespace ProEventos.Data
 {
     public class DataContext : DbContext
     {
-        public DataContext(DataContextOptions<DataContext> options) : base(options)
+        public DataContext(DbContextOptions<DataContext> options) : base(options)
         {
 
         }
 
-        public Dbset<Evento> Eventos { get; set; }
+        public DbSet<Evento> Eventos { get; set; }
     }
 }
