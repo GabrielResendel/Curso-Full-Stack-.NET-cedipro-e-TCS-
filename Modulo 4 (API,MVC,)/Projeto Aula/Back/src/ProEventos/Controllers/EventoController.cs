@@ -3,49 +3,30 @@ using System.Collections.Generic;
 using System.Linq;
 using Microsoft.AspNetCore.Mvc;
 using ProEventos.Models;
+using ProEventos.Data;
 namespace ProEventos.Controllers
 {
     [ApiController]
     [Route("api/[Controller]")]
     public class EventoController : Controller
     {
-        public IEnumerable<Evento> _evento = new Evento[] {
+        private readonly DataContext _context;
 
-            new Evento(){
-                EventoId = 1,
-                Local = "Australia",
-                DataEvento = DateTime.Now.AddDays(10).ToString(),
-                Tema = "Curso de Full Stack",
-                QtdPessoas = 100,
-                Lote = "1 Lote",
-                ImagemURL = "imagem1.jpg",
-            },
-
-             new Evento(){
-                EventoId = 2,
-                Local = "Afeganistão",
-                DataEvento = DateTime.Now.AddDays(10).ToString(),
-                Tema = "Curso de Terrorismo",
-                QtdPessoas = 200,
-                Lote = "2 Lote",
-                ImagemURL = "imagem2.jpg",
-            }
-        };
-        public EventoController()
+        public EventoController(DataContext context)
         {
-
+            this._context = context;
         }
 
         [HttpGet]
         public IEnumerable<Evento> Get()
         {
-            return _evento;
+            return this._context.Eventos;
         }
 
         [HttpGet("{id}")]
-        public IEnumerable<Evento> Get(int id)
+        public Evento Get(int id)
         {
-            return _evento.Where(evento => evento.EventoId == id);
+            return this._context.Eventos.FirstOrDefault(evento => evento.EventoId == id);
         }
 
         [HttpPost]
