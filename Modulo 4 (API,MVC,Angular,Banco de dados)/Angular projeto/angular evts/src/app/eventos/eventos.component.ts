@@ -1,26 +1,30 @@
 import { CommonModule } from '@angular/common';
-import { Component } from '@angular/core';
+import { HttpClient, HttpClientModule } from '@angular/common/http';
+import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-eventos',
   standalone: true,
-  imports: [CommonModule],
+  imports: [CommonModule, HttpClientModule],
   templateUrl: './eventos.component.html',
   styleUrl: './eventos.component.css'
 })
-export class EventosComponent {
- public pessoas: any=[
-  {
-    nome: "Ronaldinho",
-    nacimento: "6/06/2066"
- },
- {
-  nome: "Neymar",
-  nacimento: "1/02/2089"
-},
-{
-  nome: "Caça Rato",
-  nacimento: "66/09/2966"
-},
-];
+export class EventosComponent implements OnInit {
+constructor(private http: HttpClient) {}
+ public eventos: any;
+
+ngOnInit(): void {
+  this.getEventos();
 }
+ public getEventos() : void {
+  this.eventos = this.http.get('http://localhost:5037/api/Evento').subscribe(
+  //  (response:any) =>
+  {
+    next : (response) => (this.eventos = response),
+    error : (error) => console.log(error),
+   }
+  );
+}
+}
+
+

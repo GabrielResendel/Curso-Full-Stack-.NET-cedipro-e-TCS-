@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using ProEventos.Data;
+using Microsoft.AspNetCore.Cors.Infrastructure;
+using Microsoft.Extensions.DependencyInjection;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -15,7 +17,13 @@ builder.Services.AddDbContext<DataContext>(
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddControllers();
-
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAllOrigins",
+        builder => builder.AllowAnyOrigin()
+                          .AllowAnyMethod()
+                          .AllowAnyHeader());
+});
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -25,7 +33,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
     
 }
-
+app.UseCors("AllowAllOrigins");
 app.UseHttpsRedirection();
 app.MapControllers();
 app.Run();

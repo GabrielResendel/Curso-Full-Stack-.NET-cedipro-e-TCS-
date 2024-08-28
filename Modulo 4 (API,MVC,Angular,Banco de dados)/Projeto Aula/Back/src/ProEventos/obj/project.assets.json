@@ -4562,11 +4562,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabriel\\Desktop\\curso Full Stack TCS\\Modulo 4 (API,MVC,)\\Projeto Aula\\Back\\src\\ProEventos\\ProEventos.csproj",
+      "projectUniqueName": "C:\\Users\\Gabriel\\Desktop\\curso Full Stack TCS\\Modulo 4 (API,MVC,Angular,Banco de dados)\\Projeto Aula\\Back\\src\\ProEventos\\ProEventos.csproj",
       "projectName": "ProEventos",
-      "projectPath": "C:\\Users\\Gabriel\\Desktop\\curso Full Stack TCS\\Modulo 4 (API,MVC,)\\Projeto Aula\\Back\\src\\ProEventos\\ProEventos.csproj",
+      "projectPath": "C:\\Users\\Gabriel\\Desktop\\curso Full Stack TCS\\Modulo 4 (API,MVC,Angular,Banco de dados)\\Projeto Aula\\Back\\src\\ProEventos\\ProEventos.csproj",
       "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gabriel\\Desktop\\curso Full Stack TCS\\Modulo 4 (API,MVC,)\\Projeto Aula\\Back\\src\\ProEventos\\obj\\",
+      "outputPath": "C:\\Users\\Gabriel\\Desktop\\curso Full Stack TCS\\Modulo 4 (API,MVC,Angular,Banco de dados)\\Projeto Aula\\Back\\src\\ProEventos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
